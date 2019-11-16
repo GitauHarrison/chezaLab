@@ -169,7 +169,7 @@ a:hover {
 ================================================== */
 
 #header {
-  background: #199EB8;
+  background-color: #2A2B2B; 
   height: 70px;
 }
 
@@ -557,7 +557,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   ================================================== */
 
 .cta {
-  background-color: #199EB8;
+  background-color: #343838;
   padding: 25px 0;
 }
 
@@ -829,7 +829,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   ================================================== */
 
 .site-footer {
-  background-color: #111;
+  background-color: #2A2B2B;
   padding: 0;
 }
 
