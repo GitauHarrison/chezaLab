@@ -53,9 +53,8 @@ a {
   font-weight: 800;
   color: #fff;
   padding: 15px 45px;
-  border-radius: 50px;
+  border-radius: 40px;
 }
-
 .btn:hover {
   background-color: #E04F00;
   color: #fff;
@@ -71,8 +70,9 @@ a {
 }
 
 .btn-ghost:hover {
-  background-color: #fff;
-  color: #199EB8;
+  border: 3px solid #E04F00;
+  background-color: #E04F00;
+  color: #fff;
 }
 
 section {
