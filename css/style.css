@@ -34,7 +34,10 @@ h4 {
 /* ==================================================
   General
   ================================================== */
-
+.google-registration{
+  margin: 0px;
+  padding: 0px;
+}
 a {
   transition: 0.5s;
 }
@@ -42,6 +45,7 @@ a {
 /* ==================================================
   Elements
   ================================================== */
+
 .chezaLab{
   color: #0099cc;
   font-family: 'Montserrat', sans-serif;
@@ -169,7 +173,7 @@ a:hover {
 ================================================== */
 
 #header {
-  background-color: #2A2B2B; 
+  background-color: #111;
   height: 70px;
 }
 
@@ -557,7 +561,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   ================================================== */
 
 .cta {
-  background-color: #343838;
+  background-color: #199EB8;
   padding: 25px 0;
 }
 
@@ -829,7 +833,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   ================================================== */
 
 .site-footer {
-  background-color: #2A2B2B;
+  background-color: #111;
   padding: 0;
 }
 
